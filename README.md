@@ -1,2 +1,3 @@
-# nakupy-start
-Startovací projekt pro vývoj aplikace Nákupy
+# Projekt Nákupy: Komponenty
+
+První část tréninkové aplikace Nákupy: přidání komponent
